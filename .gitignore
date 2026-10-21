@@ -1,0 +1,13 @@
+# Raw data is re-downloaded by src/download_data.py
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.streamlit/secrets.toml
+data/processed/matches.csv
