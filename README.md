@@ -7,6 +7,10 @@ We fit a model that explains about **62% of the variance in ATP match outcomes**
 seven serve and return stats. Then we use **LMG / Shapley R² decomposition** to split
 that 62% fairly among the stats, separately for each surface.
 
+**▶ Live dashboard: https://tennis-win-factors-cf2nhibwx4dq2jkuvenk63.streamlit.app/**
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tennis-win-factors-cf2nhibwx4dq2jkuvenk63.streamlit.app/)
+
 ---
 
 ## Problem
